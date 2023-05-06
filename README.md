@@ -1,7 +1,7 @@
 ### Screenshot
 ![Order Summary Component](images/Screenshot%20(11).png)
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://order-summary-component-ak.netlify.app/
 
 ## My process
 
